@@ -1,0 +1,12 @@
+﻿c1c1
+Bill Gates
+active
+windows
+c2c2
+Steve Jobs
+active
+apple
+c3c3
+Tejvir Dhami
+active
+simi

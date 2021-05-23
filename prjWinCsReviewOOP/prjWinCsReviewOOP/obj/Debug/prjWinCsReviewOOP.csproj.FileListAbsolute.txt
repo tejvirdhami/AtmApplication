@@ -1,0 +1,45 @@
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csprojAssemblyReference.cache
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.Properties.Resources.resources
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csproj.GenerateResource.cache
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csproj.CoreCompileInputs.cache
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.exe.config
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.exe
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.pdb
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.exe
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.pdb
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmMain.resources
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmATM.resources
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmClassReview.resources
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmDatareader.resources
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmParameterCMD.resources
+C:\Users\Apple\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmCmdParameterHomeWork.resources
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.exe.config
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.exe
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.pdb
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csprojAssemblyReference.cache
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmATM.resources
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmClassReview.resources
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmCmdParameterHomeWork.resources
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmDatareader.resources
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmMain.resources
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmParameterCMD.resources
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.Properties.Resources.resources
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csproj.GenerateResource.cache
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csproj.CoreCompileInputs.cache
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.exe
+C:\Users\kasra\source\repos\prjWinCsLInqEntityDataset\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.pdb
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.exe.config
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.exe
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\bin\Debug\prjWinCsReviewOOP.pdb
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csprojAssemblyReference.cache
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmATM.resources
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmClassReview.resources
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmCmdParameterHomeWork.resources
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmDatareader.resources
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmMain.resources
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.frmParameterCMD.resources
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.Properties.Resources.resources
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csproj.GenerateResource.cache
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.csproj.CoreCompileInputs.cache
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.exe
+C:\Users\Tejvir Dhami\source\repos\prjWinCsReviewOOP\prjWinCsReviewOOP\obj\Debug\prjWinCsReviewOOP.pdb
